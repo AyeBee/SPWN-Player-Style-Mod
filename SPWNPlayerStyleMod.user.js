@@ -3,7 +3,7 @@
 // @namespace    https://github.com/AyeBee/SPWNPlayerStyleMod
 // @version      0.1
 // @description  SPWN配信画面の余白を消してビデオ表示領域を広げます
-// @author       AyeBee_TY
+// @author       ayebee
 // @match        https://virtual.spwn.jp/videos/*
 // @icon         https://www.google.com/s2/favicons?domain=spwn.jp
 // @grant        none
