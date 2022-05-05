@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SPWN Player Style Mod
-// @namespace    http://ayebee.jp/
+// @namespace    https://github.com/AyeBee/SPWNPlayerStyleMod
 // @version      0.1
 // @description  SPWN配信画面の余白を消してビデオ表示領域を広げます
 // @author       AyeBee_TY
